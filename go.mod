@@ -1,4 +1,4 @@
-module github.com/gin-gonic/autotls
+module github.com/ArdaCraft/autotls
 
 go 1.14
 
